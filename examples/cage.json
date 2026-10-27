@@ -1,0 +1,1 @@
+{"allowed_symbols":null,"cooldown_seconds":3600,"daily_loss_limit_pct":0.03,"max_consecutive_losses":3,"max_drawdown_pct":0.15,"max_order_pct":0.1,"max_position_pct":0.25,"max_total_exposure_pct":0.8,"max_trades_per_day":50,"require_approval_above_pct":0.2}
