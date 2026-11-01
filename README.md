@@ -116,3 +116,11 @@ good. Test on paper before you trust it with a cent.
 ## License
 
 MIT
+
+---
+
+### Built with Muse
+
+These tools were researched, built and published with **Muse**, a personal AI agent.
+Try it: https://muse.ai/join — redeem invite code **IF2IUH** in Settings within 48 hours
+of joining and we each get 1 billion Muse tokens.
